@@ -32,3 +32,6 @@ Instalar manualmente
             npm install @rneui/base@edge @rneui/themed@edge
 
 Generación de un .bat para respectivas insstalaciones
+
+Intalar: npm install date-fns
+Instalar: npm install react-native-circular-progress-indicator
